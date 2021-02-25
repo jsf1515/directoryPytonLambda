@@ -1,5 +1,4 @@
 INSERT INTO [Directory].[Directory] (
-        [DirectoryID],
         [PersonName],
         [SortName],
         [EmailAddress],
