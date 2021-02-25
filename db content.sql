@@ -223,4 +223,4 @@ VALUES (
     'Visiting Professor',
     'Dolore enim adipisicing pariatur ut enim incididunt. Non ut commodo fugiat Lorem. Dolore nulla ea sit dolore occaecat elit est consequat magna do ex irure quis.Cupidatat dolore deserunt aliqua nostrud cillum enim aliquip ullamco non. Reprehenderit non dolore excepteur non elit minim aliqua laboris cupidatat proident fugiat duis cillum. Laboris dolore aliquip do ea est. Irure adipisicing do quis non officia in excepteur adipisicing nostrud do occaecat nostrud. Labore fugiat eu adipisicing sunt ad sint.',
     '256_14.png'
-),
+);
